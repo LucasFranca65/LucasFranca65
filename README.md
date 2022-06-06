@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá Pessoal 👋
+
+##  Me chamo Lucas ! 
+### Bem vindo ao meu perfil GitHub 👋
+
+###### Esse perfil tem o intuito de me auxiliar no desenvolvimento do meu aprendizado no mundo da programação, conto com a ajuda de todos, me segue ai 😄!!
+
 
 <!--
 **LucasFranca65/LucasFranca65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
