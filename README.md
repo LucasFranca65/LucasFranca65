@@ -4,17 +4,16 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ###### Esse perfil tem o intuito de me auxiliar no desenvolvimento do meu aprendizado no mundo da programação, conto com a ajuda de todos, me segue ai 😄!!
-Estou com foco no desenvolvimento de APIs com NodeJs.
 
 - JavaScript
 - Node.Js
 - HTML/CSS
 - Bootstrap
 - Handlebars
+- React
+- React-Native
 - MongoDB
 - SQL
-
-
 
 
 <!--
