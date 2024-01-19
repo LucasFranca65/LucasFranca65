@@ -3,7 +3,9 @@
 ##  Me chamo Lucas ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-###### Esse perfil tem o intuito de me auxiliar no desenvolvimento do meu aprendizado no mundo da programação, conto com a ajuda de todos, me segue ai 😄!!
+###### Esse perfil tem o intuito de me auxiliar no desenvolvimento profissional e aprendizado, conto com a ajuda de todos, me segue ai 😄!!
+
+#Tecnologias mais utilizadas.
 
 - JavaScript
 - Node.Js
