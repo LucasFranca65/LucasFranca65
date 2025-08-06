@@ -15,7 +15,9 @@
 - React
 - React-Native
 - MongoDB
-- SQL
+- MySQL
+- JAVA
+- SpringBoot
 
 
 <!--
