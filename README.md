@@ -6,7 +6,7 @@ Com experiência em Node.js, React, Java, Spring Boot, MongoDB e muito mais.
 ---
 
 ## ​ Habilidades Técnicas
-- **Backend**: Node.js, Express, Java, SpringBoot  
+- **Backend**: Node.js, Express, Java, Spring Boot  
 - **Frontend**: React, React Native, Bootstrap, Handlebars  
 - **Banco de dados**: MongoDB, MySQL  
 - **Ambiente**: Linux, Git  
